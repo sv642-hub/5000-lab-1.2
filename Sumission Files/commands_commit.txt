@@ -1,0 +1,30 @@
+(base) sebastianvillalobos@Sebastians-MacBook-Air simple_quarto_website % git add images/marcus_aurelius.jpg images/seneca.jpg slides/sli
+des.ipynb _quarto.yml about.ipynb about.qmd index.qmd reference.bib _site/slides/slides.html _site/images/marcus_aurelius.jpg _site/images/seneca.jpg _site/about.html _site/about.ipynb _site/index.html _site/search.json 
+(base) sebastianvillalobos@Sebastians-MacBook-Air simple_quarto_website % git commit -m "Adding files for the 1st time"
+[main a11a604] Adding files for the 1st time
+ 15 files changed, 2379 insertions(+)
+ create mode 100644 simple_quarto_website/_quarto.yml
+ create mode 100644 simple_quarto_website/_site/about.html
+ create mode 100644 simple_quarto_website/_site/about.ipynb
+ create mode 100644 simple_quarto_website/_site/images/marcus_aurelius.jpg
+ create mode 100644 simple_quarto_website/_site/images/seneca.jpg
+ create mode 100644 simple_quarto_website/_site/index.html
+ create mode 100644 simple_quarto_website/_site/search.json
+ create mode 100644 simple_quarto_website/_site/slides/slides.html
+ create mode 100644 simple_quarto_website/about.ipynb
+ create mode 100644 simple_quarto_website/about.qmd
+ create mode 100644 simple_quarto_website/images/marcus_aurelius.jpg
+ create mode 100644 simple_quarto_website/images/seneca.jpg
+ create mode 100644 simple_quarto_website/index.qmd
+ create mode 100644 simple_quarto_website/reference.bib
+ create mode 100644 simple_quarto_website/slides/slides.ipynb
+(base) sebastianvillalobos@Sebastians-MacBook-Air simple_quarto_website % git push
+Enumerating objects: 20, done.
+Counting objects: 100% (20/20), done.
+Delta compression using up to 10 threads
+Compressing objects: 100% (16/16), done.
+Writing objects: 100% (19/19), 100.18 KiB | 20.04 MiB/s, done.
+Total 19 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), done.
+To https://github.com/sv642-hub/5000-lab-1.2
+   3e83c71..a11a604  main -> main
