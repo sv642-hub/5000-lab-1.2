@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Lab 3 - Website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.ipynb
+
+format:
+  html:
+    mermaid: {}
+    bibliography: reference.bib
+    link-citations: true
+    theme: 
+      - cosmo
+      - brand
+    toc: true
+
+
+
+

@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lab 3 - Website",
+    "section": "",
+    "text": "Main Philosophers\n\nMarcus Aurelius\nSeneca\nEpictetus\n\n\n\nPhilosoper  - Marcus Aurelius  - Seneca  - Epictetus \n\nPlace of birth  - Rome  - Greece  - Greece \n\n\n\n\n\nPhilosopher’s Name\nBooks\n\n\n\n\nMarcus Aurelius\nMeditations/\n\n\nSeneca\nLetters from a Stoic/On The Shortness of Life\n\n\nEpictetus\nDiscourses by Epictetus/Enchiridion\n\n\n\n\n\n\nMarcus Aurelius held that \\(\\text{Good} = \\text{Virtue}\\)1 and that external things like wealth or fame are indifferent.\nThis is the formula Tranquility that Stoics like to use, this helps us concentrate on our actions adn that we are dependent on ourselves: \\[\n\\text{Tranquility} = \\frac{\\text{Things within our control}}{\\text{Total things}}\n\\]\n\n\n\n\n“It is not that we have a short time to live, but that we waste a lot of it.”\n— Seneca\n\n\n“You have power over your mind — not outside events. Realize this, and you will find strength.”\n— Marcus Aurelius\n\n\n“First say to yourself what you would be; and then do what you have to do.”\n— Epictetus\n\n\n\n\n\n\n\n\n\n\n\nSeneca\nMarcus Aurelius\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nflowchart LR\n    A[Perception] --&gt; B{Within my control?}\n    B -- Yes --&gt; C[Act with virtue]\n    B -- No  --&gt; D[Accept with equanimity]\n    C --&gt; E[Tranquility]\n    D --&gt; E[Tranquility]\n\n\n\n\n\n\nCarter et al. (1766) emphasizes the enduring value of Stoic philosophy."
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "Lab 3 - Website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nMarcus Aurelius, Meditations, Book II — on virtue as the only good.↩︎"
+  },
+  {
+    "objectID": "slides/slides.html#stoic-masters-of-thought",
+    "href": "slides/slides.html#stoic-masters-of-thought",
+    "title": "Lab 3 - Stoicism",
+    "section": "Stoic Masters of Thought",
+    "text": "Stoic Masters of Thought\n\n\n\n\n\n\n\n\n\n\n\n\n\nEpictetus\nSeneca"
+  },
+  {
+    "objectID": "slides/slides.html#stoic-lgegacy",
+    "href": "slides/slides.html#stoic-lgegacy",
+    "title": "Lab 3 - Stoicism",
+    "section": "Stoic Lgegacy",
+    "text": "Stoic Lgegacy\n(Carter et al. 1766) emphasizes the enduring value of Stoic philosophy."
+  },
+  {
+    "objectID": "slides/slides.html#python-demo",
+    "href": "slides/slides.html#python-demo",
+    "title": "Lab 3 - Stoicism",
+    "section": "Python Demo",
+    "text": "Python Demo\nHere’s a random Stoic quote from Python:\n\nimport random\n\nquotes = [\n    \"Wealth consists not in having great possessions, but in having few wants. – Epictetus\",\n    \"The happiness of your life depends on the quality of your thoughts. – Marcus Aurelius\",\n    \"It is not that we have a short time to live, but that we waste a lot of it. – Seneca\"\n]\n\nprint(\"💡 Stoic Thought of the Day:\")\nprint(random.choice(quotes))\n\n💡 Stoic Thought of the Day:\nWealth consists not in having great possessions, but in having few wants. – Epictetus"
+  },
+  {
+    "objectID": "slides/slides.html#references",
+    "href": "slides/slides.html#references",
+    "title": "Lab 3 - Stoicism",
+    "section": "References",
+    "text": "References\n\n\nCarter, Elizabeth et al. 1766. The Discourses of Epictetus. 451. [Urie?], Printed in the year 1766."
+  }
+]

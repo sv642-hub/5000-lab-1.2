@@ -1,0 +1,86 @@
+---
+title: "Lab 3 - Website"
+---
+
+# Stoicism by Sebastian V
+
+### Stocism - Main philosophers
+
+Main Philosophers
+
+ - Marcus Aurelius
+ - Seneca
+ - Epictetus
+
+::: columns
+::: column
+**Philosoper** <br>
+- Marcus Aurelius <br>
+- Seneca <br>
+- Epictetus <br>
+:::
+
+::: column
+**Place of birth** <br>
+- Rome <br>
+- Greece <br>
+- Greece <br>
+:::
+:::
+| Philosopher's Name    | Books |
+| -------- | ------- |
+| Marcus Aurelius| Meditations/|
+| Seneca |  Letters from a Stoic/On The Shortness of Life|
+| Epictetus | Discourses by Epictetus/Enchiridion |
+
+### Life formulas by Stoics
+Marcus Aurelius held that $\text{Good} = \text{Virtue}$[^1] and that external things like wealth or fame are indifferent.
+
+[^1]: Marcus Aurelius, *Meditations*, Book II — on virtue as the only good.
+
+This is the formula Tranquility that Stoics like to use, this helps us concentrate on our actions adn that we are dependent on ourselves:
+$$
+\text{Tranquility} = \frac{\text{Things within our control}}{\text{Total things}}
+$$
+
+### Quotes by Stoics
+> "It is not that we have a short time to live, but that we waste a lot of it."  
+> — Seneca
+
+> "You have power over your mind — not outside events. Realize this, and you will find strength."  
+> — Marcus Aurelius
+
+> "First say to yourself what you would be; and then do what you have to do."  
+> — Epictetus
+
+### Philosopher Images
+
+| Seneca | Marcus Aurelius |
+|--------|-----------------|
+| ![Seneca](./images/seneca.jpg) | ![Marcus Aurelius](./images/marcus_aurelius.jpg) |
+
+### Marcus Aurelius Video
+
+<iframe width="800" height="450" 
+        src="https://www.youtube.com/embed/tv6W0Nv5ev0" 
+        title="Marcus Aurelius: The Man Who Solved the Universe"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen>
+</iframe>
+
+### Stoic Decision Flow
+
+```{mermaid}
+flowchart LR
+    A[Perception] --> B{Within my control?}
+    B -- Yes --> C[Act with virtue]
+    B -- No  --> D[Accept with equanimity]
+    C --> E[Tranquility]
+    D --> E[Tranquility]
+```
+
+@carter1766discourses emphasizes the enduring value of Stoic philosophy.
+
+
+
