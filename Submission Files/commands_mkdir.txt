@@ -1,0 +1,27 @@
+(base) sebastianvillalobos@Sebastians-MacBook-Air Lab 3 % pwd
+/Users/sebastianvillalobos/Downloads/Data Science & Analytics/Lab 3
+(base) sebastianvillalobos@Sebastians-MacBook-Air Lab 3 % cd 5000-lab-1.2 
+(base) sebastianvillalobos@Sebastians-MacBook-Air 5000-lab-1.2 % cd simple_quarto_website 
+(base) sebastianvillalobos@Sebastians-MacBook-Air simple_quarto_website % clear
+(base) sebastianvillalobos@Sebastians-MacBook-Air simple_quarto_website % ls
+_quarto.yml     about.qmd       citations       index.qmd       styles.css
+(base) sebastianvillalobos@Sebastians-MacBook-Air simple_quarto_website % rm styles.css 
+(base) sebastianvillalobos@Sebastians-MacBook-Air simple_quarto_website % mkdir images
+(base) sebastianvillalobos@Sebastians-MacBook-Air simple_quarto_website % mkdir slides
+(base) sebastianvillalobos@Sebastians-MacBook-Air simple_quarto_website % quarto convert about.qmd 
+Converted to about.ipynb
+(base) sebastianvillalobos@Sebastians-MacBook-Air simple_quarto_website % ls
+_quarto.yml     about.ipynb     about.qmd       citations       images          index.qmd       slides
+(base) sebastianvillalobos@Sebastians-MacBook-Air simple_quarto_website % more reference.bib 
+@article{alva2021beginning,
+  title={Beginning Mathematica and Wolfram for Data Science},
+  author={Alva, Jalil Villalobos},
+  journal={Apress (Mexico)},
+  pages={1--430},
+  year={2021},
+  publisher={Springer}
+}
+(base) sebastianvillalobos@Sebastians-MacBook-Air simple_quarto_website % 
+(base) sebastianvillalobos@Sebastians-MacBook-Air simple_quarto_website % ls
+_quarto.yml     about.ipynb     about.qmd       images          index.qmd       reference.bib   slides
+(base) sebastianvillalobos@Sebastians-MacBook-Air simple_quarto_website % 
